@@ -9,5 +9,8 @@ public class HelloWorld {
 
         //From Maria
         System.out.println("How are you?");
+        
+        //From GitHub
+        System.out.println("I am just fine, Maria");
     }
 }
