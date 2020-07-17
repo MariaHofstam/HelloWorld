@@ -18,5 +18,8 @@ public class HelloWorld {
         //From GitHub
         System.out.println("Ohh, I'm sorry to hear that. Hope you feel better soon");
 
+        //From Maria
+        System.out.println("Thanks GitHuh :-)");
+
     }
 }
