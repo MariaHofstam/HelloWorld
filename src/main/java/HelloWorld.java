@@ -6,5 +6,8 @@ public class HelloWorld {
         
         //Editing from GitHub
         System.out.println("GitHub says hello Maria!");
+
+        //From Maria
+        System.out.println("How are you?");
     }
 }
