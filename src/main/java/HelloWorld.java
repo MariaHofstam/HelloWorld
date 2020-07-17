@@ -14,6 +14,9 @@ public class HelloWorld {
         System.out.println("I am just fine, Maria");
 
         System.out.println("I feel really awful today. I'm really sad");
+        
+        //From GitHub
+        System.out.println("Ohh, I'm sorry to hear that. Hope you feel better soon");
 
     }
 }
