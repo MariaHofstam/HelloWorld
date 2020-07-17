@@ -15,5 +15,8 @@ public class HelloWorld {
 
         //From Maria
         System.out.println("I dont really know how I feel today. I'm a bit unserten");
+        
+        //From GitHub
+        System.out.println("That is totally fine, Maria. I'm sure you are just OK!");
     }
 }
